@@ -17,8 +17,8 @@
 **触发词：** 微信解密、聊天记录、微信数据库、微信消息搜索、微信MCP
 
 ### 2. wechat-favorites
-wechat-favorites 文件夹复制到 /skills/文件夹即可调用
 微信收藏夹导出、分类与知识库管理。
+wechat-favorites 文件夹复制到 /skills/文件夹即可调用
 
 **核心能力：**
 - 从解密后的 `favorite.db` 导出收藏记录
