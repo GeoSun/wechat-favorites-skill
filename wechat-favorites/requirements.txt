@@ -1,0 +1,3 @@
+# wechat-favorites 依赖
+pycryptodome>=3.19
+zstandard>=0.22
